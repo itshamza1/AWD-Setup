@@ -1,0 +1,4 @@
+Name: Ameer Hamza
+Node Version: v24.13.0
+NPM Version: 11.6.2
+Git Version: 2.50.1 (Apple Git-155)
